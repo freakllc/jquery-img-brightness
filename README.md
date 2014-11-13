@@ -1,2 +1,2 @@
-jquery-img-brightness
+jQuery Image Brightness
 =====================
